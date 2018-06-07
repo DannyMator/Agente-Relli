@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657826, g: 0.49641263, b: 0.57481676, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1047,7 +1047,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1296536733}
   m_LocalRotation: {x: 0, y: 0, z: 0.0023211571, w: 0.9999974}
-  m_LocalPosition: {x: 3.33849, y: 0, z: -0.095685005}
+  m_LocalPosition: {x: 3.3385043, y: 0, z: -0.095685005}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 233497685}
@@ -1565,6 +1565,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 1779257280}
+  - component: {fileID: 1779257281}
   m_Layer: 0
   m_Name: Relli
   m_TagString: Untagged
@@ -1587,6 +1588,24 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &1779257281
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1779257279}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 715cac9d689b5cc43a8dd200647ae66f, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1821793773
 GameObject:
   m_ObjectHideFlags: 0
@@ -1826,7 +1845,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Color: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
-  m_Length: 3.338491
+  m_Length: 3.3385053
   m_Child: {fileID: 0}
   m_ChildTransform: {fileID: 1296536734}
   m_AttachedIK: {fileID: 0}
