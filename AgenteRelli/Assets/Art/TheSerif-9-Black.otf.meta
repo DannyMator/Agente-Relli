@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 538d2bb77984f644ca84f9c8df2f96b6
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: TheSerif
+  fontNames:
+  - TheSerif
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 21ede12ff1696cb4e825501d40fdc039, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
